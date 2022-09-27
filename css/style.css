@@ -44,4 +44,18 @@
   
 }
 
+.ex-5-square {
+  margin: 20px;
+  width: 60px;
+  height: 60px;
+  background: red;
+  transition: 2s;
+}
+
+.ex-5-square:hover {
+  transform: scale(2);
+}
+
+
+
 
