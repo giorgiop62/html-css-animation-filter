@@ -105,6 +105,30 @@
   }
 }
 
+.ex-11-icon {
+  font-size: 60px;
+}
+
+.ex-11-icon:hover{
+  animation-name: giro1;
+  animation-duration: 1s;
+  transition: 3s;
+}
+@keyframes giro1 {
+  0% {
+    transform: rotate(0);
+  }
+  90%{
+    transform: rotate(315deg);
+  }
+  100%{
+    transform: rotate(0);
+  }
+
+  
+}
+
+
 
 
 
