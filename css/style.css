@@ -72,6 +72,26 @@
   filter: saturate(0);
 }
 
+.ex-8-img{
+  transition: 2s;
+}
+
+.ex-8-img:hover {
+  filter: saturate(0);
+  border-radius: 20px;
+}
+
+.ex-9-img {
+  margin: 50px 100px;
+  width: 400px;
+  transition: 2s;
+}
+
+.ex-9-img:hover{
+  filter: saturate(0);
+  transform: scale(1.5);
+}
+
 
 
 
