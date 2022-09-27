@@ -92,6 +92,19 @@
   transform: scale(1.5);
 }
 
+.ex-10-icon {
+  font-size: 60px;
+  animation-name: giro;
+  animation-duration: 1s;
+  animation-iteration-count: infinite ;
+}
+
+@keyframes giro {
+  0%{
+    transform: rotate(360deg);
+  }
+}
+
 
 
 
