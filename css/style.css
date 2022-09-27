@@ -56,6 +56,14 @@
   transform: scale(2);
 }
 
+.ex-6-img {
+  background-image: url(https://i.ytimg.com/vi/UJ6GmaZVFkU/maxresdefault.jpg);
+}
+
+.ex-6-img:hover {
+  filter: grayscale(1);
+}
+
 
 
 
